@@ -1,6 +1,6 @@
-# mini
-mini-project   
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=유튜브%20클론%20코딩&animation=&fontColor=000000&fontSize=60" />
+    </div>
 
 ## 프로젝트 필수 추가 요소
 
@@ -16,8 +16,6 @@ mini-project
 👩 임단비  
 https://github.com/HayleyLim
 
-
-## [주제] 유튜브 클론 코딩
  
 ### 🎬 시연 영상!
 https://youtu.be/lo2ugjBqqSI
